@@ -37,11 +37,11 @@ src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true
 <br />
 <div align="center">
 <h3>FrontEnd Languages - Frameworks</h3>
-<img src="https://skillicons.dev/icons?i=react,angular,bootstrap,html,css,tailwind,vue,jquery"/>
+<img src="https://skillicons.dev/icons?i=react,angular,bootstrap,html,css,tailwind"/>
 <h3>BackEnd Languages - Frameworks</h3>
-<img src="https://skillicons.dev/icons?i=spring,java,django,py,dotnet,cs,nodejs,javascript,typescript"/><br>
+<img src="https://skillicons.dev/icons?i=spring,java,django,py,dotnet,cs,nodejs,typescript"/><br>
 <h3>Databases</h3>
-<img src="https://skillicons.dev/icons?i=mysql,sqlite,postgresql,sqlite,firebase" />
+<img src="https://skillicons.dev/icons?i=mysql,sqlite,postgresql,firebase" />
 <h3>DevOps - Tools</h3>
 <img src="https://skillicons.dev/icons?i=github,git,figma,postman,visualstudio,vscode,linux,docker" />
 

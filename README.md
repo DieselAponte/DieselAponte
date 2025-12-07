@@ -26,8 +26,6 @@ src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true
 </a>
 </div>
     
-<hr />
-    
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <div align="center">
 <h3>FrontEnd Languages - Frameworks</h3>
@@ -42,8 +40,7 @@ src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true
 </div>
     
 <br />
-<hr />
-        
+      
 <h1 align="center">
 <img
 src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=3000&lines=Let's+stay+in+contact+📞+!;" />

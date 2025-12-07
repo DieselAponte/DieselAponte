@@ -66,9 +66,9 @@ src="https://raw.githubusercontent.com/salesp07/salesp07/output/github-contribut
   
 <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=DieselAponte&theme=transparent&border_radius=3" alt="GitHub Streak" /></a>
 
-[![DieselAponte's GitHub stats](https://github-readme-stats.vercel.app/api?username=DieselAponte)](https://github.com/DieselAponte/github-readme-stats)
+<!--[![DieselAponte's GitHub stats](https://github-readme-stats.vercel.app/api?username=DieselAponte)](https://github.com/DieselAponte/github-readme-stats)-->
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DieselAponte)](https://github.com/DieselAponte/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DieselAponte)](https://github.com/anuraghazra/github-readme-stats)
 
 </div>
     

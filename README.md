@@ -1,21 +1,16 @@
 
 <h1 align="center">
 <img
-src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=3000&lines=Hi+There!+👋;+I'm+Diesel+Aponte!;" />
+src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=3000&lines=Hi+There!+👋;+I'm+Diesel+Aponte+💻;" />
 </h1>
-    
+
 <h3 align="center">A passionate software developer from Perú 🇵🇪</h3>
-<br />
     
 <div align="center">
     
 🔭 I’m currently styding on **Universidad San Ignacio de Loyola**
     
 🌱 I’m currently learning **Google Cloud Tools, Visual Basic, Azure, AWS**
-    
-💬 You have any questions? **ask me for anything through Gmail with the Subject "DieselAponteDev - ...**
-    
-⚡ Fun fact **I would spend all my day coding and listening to Mac de Marco**
     
 </div>
     
@@ -34,7 +29,6 @@ src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true
 <hr />
     
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
-<br />
 <div align="center">
 <h3>FrontEnd Languages - Frameworks</h3>
 <img src="https://skillicons.dev/icons?i=react,angular,bootstrap,html,css,tailwind"/>
@@ -49,36 +43,20 @@ src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true
     
 <br />
 <hr />
+        
+<h1 align="center">
+<img
+src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=3000&lines=Let's+stay+in+contact+📞+!;" />
+</h1>
+
+<div align=center>
+    
+[![DieselAponte's GitHub stats](https://github-readme-stats-ten-snowy-61.vercel.app/api/top-langs/?username=DieselAponte&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5)](https://)
+
+</div>
     
 <div align="center">
 <h2>🐍 My Contributions 🐍</h2>
-<br>
 <img alt="snake eating my contributions"
 src="https://raw.githubusercontent.com/salesp07/salesp07/output/github-contribution-grid-snake.svg" />
-<br /><br /><br />
 </div>
-    
-<hr />
-    
-<h2 align="center">⚡ Stats ⚡</h2>
-<br>
-<div align=center>
-  
-<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=DieselAponte&theme=transparent&border_radius=3" alt="GitHub Streak" /></a>
-
-<!--[![DieselAponte's GitHub stats](https://github-readme-stats.vercel.app/api?username=DieselAponte)](https://github.com/DieselAponte/github-readme-stats)-->
-
-![Top Langs](https://github-readme-stats-ten-snowy-61.vercel.app/api/top-langs/?username=DieselAponte&layout=compact&theme=dark)
-
-
-</div>
-    
-<br /><br />
-
-<hr />
-
-<h2 align="center">Let's get in contact!</h2>  
-
-<br />
-
-<br />

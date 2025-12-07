@@ -8,7 +8,7 @@ src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true
     
 <div align="center">
     
-🔭 I’m currently styding on **Universidad San Ignacio de Loyola**
+🔭 I’m currently studying on **Universidad San Ignacio de Loyola**
     
 🌱 I’m currently learning **Google Cloud Tools, Visual Basic, Azure, AWS**
     
@@ -55,5 +55,5 @@ src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true
 <div align="center">
 <h2>🐍 My Contributions 🐍</h2>
 <img alt="snake eating my contributions"
-src="https://raw.githubusercontent.com/salesp07/salesp07/output/github-contribution-grid-snake.svg" />
+src="https://raw.githubusercontent.com/DieselAponte/DieselAponte/output/github-contribution-grid-snake.svg" />
 </div>

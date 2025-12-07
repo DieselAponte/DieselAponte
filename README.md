@@ -68,7 +68,8 @@ src="https://raw.githubusercontent.com/salesp07/salesp07/output/github-contribut
 
 <!--[![DieselAponte's GitHub stats](https://github-readme-stats.vercel.app/api?username=DieselAponte)](https://github.com/DieselAponte/github-readme-stats)-->
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DieselAponte)](https://github.com/anuraghazra/github-readme-stats)
+![Top Langs](https://github-readme-stats-ten-snowy-61.vercel.app/api/top-langs/?username=DieselAponte&layout=compact&theme=dark)
+
 
 </div>
     
